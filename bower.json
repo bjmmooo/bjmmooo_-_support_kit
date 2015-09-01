@@ -1,0 +1,8 @@
+{
+	"   " : null
+	, "dependencies" : {
+		" polymer " : " ^ 1.1.2 "
+		, " supportkit " : " ^ 0.2.26 "
+	}
+	, "name" : "bjmmooo_-_support_kit"
+}
